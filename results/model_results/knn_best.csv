@@ -1,0 +1,2 @@
+Model,Best_Configuration,MAE,RMSE,R2,CV_RMSE
+K-Nearest Neighbors Regressor,"{'n_neighbors': 5, 'p': 2, 'weights': 'distance'}",3816.304563223272,6923.019593442526,0.7391748645613712,6644.775115138293

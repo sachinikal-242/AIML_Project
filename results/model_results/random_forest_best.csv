@@ -1,0 +1,2 @@
+Model,Best_Configuration,MAE,RMSE,R2,CV_RMSE
+Random Forest Regressor,"{'max_depth': 5, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 200}",2415.0113560689774,4254.5806539223195,0.9014919228097885,4619.76195906487

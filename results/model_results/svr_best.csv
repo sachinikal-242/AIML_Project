@@ -1,0 +1,2 @@
+Model,Best_Configuration,MAE,RMSE,R2,CV_RMSE
+Support Vector Regression,"{'C': 1000, 'epsilon': 0.1, 'gamma': 'scale', 'kernel': 'linear'}",4169.139793487327,8338.431767112468,0.6216209533131968,7380.189480744858

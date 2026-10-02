@@ -1,0 +1,2 @@
+Model,Best_Configuration,MAE,RMSE,R2,CV_RMSE
+Linear Regression,Linear Regression - All Features,4194.48495999275,5978.24148054789,0.8055064392772917,6123.287236092229

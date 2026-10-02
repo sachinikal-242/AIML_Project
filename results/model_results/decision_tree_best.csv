@@ -1,0 +1,2 @@
+Model,Best_Configuration,MAE,RMSE,R2,CV_RMSE
+Decision Tree Regressor,"{'max_depth': 5, 'min_samples_leaf': 4, 'min_samples_split': 10}",2600.306097463301,4353.481922742503,0.8968588876206735,4823.4108947777295

@@ -1,0 +1,7 @@
+Model,Best_Configuration,MAE,RMSE,R2,CV_RMSE
+Random Forest Regressor,"{'max_depth': 5, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 200}",2415.0113560689774,4254.58065392232,0.9014919228097884,4619.76195906487
+Decision Tree Regressor,"{'max_depth': 5, 'min_samples_leaf': 4, 'min_samples_split': 10}",2600.306097463301,4353.481922742503,0.8968588876206735,4823.4108947777295
+Linear Regression,Linear Regression - All Features,4194.48495999275,5978.24148054789,0.8055064392772917,6123.287236092229
+Ridge Regression,alpha=1,4212.544883183532,5993.10504796537,0.804538107063968,6121.690585363275
+K-Nearest Neighbors Regressor,"{'n_neighbors': 5, 'p': 2, 'weights': 'distance'}",3816.304563223272,6923.019593442526,0.7391748645613712,6644.775115138293
+Support Vector Regression,"{'C': 1000, 'epsilon': 0.1, 'gamma': 'scale', 'kernel': 'linear'}",4169.139793487327,8338.431767112468,0.6216209533131968,7380.189480744858
